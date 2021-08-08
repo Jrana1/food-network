@@ -1,0 +1,125 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display:flex;
+    margin:30px 50px;
+}
+
+.text{
+    width:50%;
+    margin-top:100px;
+}
+.text h1{
+    font-size: 80px;
+    font-weight: 600px;
+}
+ span{
+    color:brown;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,salmon);
+    color:white;
+    padding:15px 15px;
+    border-radius: 20px;
+    font-weight: 400px;
+    display: inline-block;
+   
+}
+.picture{
+   width:42%;
+   margin-left:150px;
+   margin-top:18px;
+   
+}
+.second-section{
+    margin-top:100px;
+    background-repeat: no-repeat;
+    background-image: url(images/shapes/7.png);
+}
+.third-section{
+    text-align: center;
+    width:40%;
+    margin-left: 500px;
+    margin-top:10px;
+}
+.fourth-section{
+   display:flex;
+   margin-top: 30px;
+   margin-right:50px;
+   margin-left:50px;
+   margin-bottom: 100px;
+   
+}
+.food{
+    width:45%;
+    box-shadow: 10px 10px 90px indigo;
+    margin:20px 20px;
+    border-radius: 20px;
+    padding: 20px 20px;
+}
+/*
+developer{
+   box-shadow:20px 20px 100px indigo;
+   width:40%;
+   margin-right:5%;
+   margin-left:5%;
+   padding-left:5%;
+   padding-right:5%;
+   border-radius: 10px;
+   margin-bottom: 5px;*/
+
+.pic1{
+    width:400px;
+    height:250px;
+    border-radius: 10px;
+}
+.pic2{
+    width:400px;
+    height:250px;
+    border-radius: 10px;
+    display:flex;
+}
+.pic3{
+    width:400px;
+    height:250px;
+    border-radius: 10px;
+}
+.bottom-section{
+   display: flex;
+   text-align: justify;
+   box-shadow:10px 10px 80px indigo;
+   width:93%;
+   margin-right:5%;
+   margin-left:5%;
+   border-radius: 20px;
+   margin-bottom: 5px;
+  
+
+}
+
+.follower h1{
+    font-size: 40px;
+    font-weight: 700px;
+   
+}
+.follower{
+    width:50%;
+    margin:30px 130px;
+}
+footer{
+    text-align: center;
+    margin-top:100px;
+    background-color: black;
+    width:100%;
+    height:200px;
+    padding-top: 30px;
+}
+footer h1{
+    color:cadetblue;
+}
+footer p{
+    color:cornflowerblue;
+}
